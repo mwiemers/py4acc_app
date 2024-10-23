@@ -8,7 +8,7 @@ st.set_page_config(
 
 local_css("css/style.css")
 
-st.title("DSL Python workshops")
+st.title("DSL Python for Accounting workshops")
 
 
 st.markdown(

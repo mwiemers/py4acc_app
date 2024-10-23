@@ -25,10 +25,10 @@ Sign ups for the Python for Accounting workshops will be available for bookings 
 There are a limited number of spaces available for each session!
 <br>
 <br> 
-<b>Please use one of the links below to sign up for the first workshop in week 8 and the second workshop in week 9.
+Please use one of the links below to sign up for the first workshop in week 8 and the second workshop in week 9.
 <ul>
-    <li><a href="https://apps.lse.ac.uk/training-system/userBooking/course/9301744">this link</a> to secure your spot for the first workshop in week 8. You only need to attend one of the sessions!</b></li>
-    <li><a href="https://apps.lse.ac.uk/training-system/userBooking/course/9301749">this link</a> to secure your spot for the second workshop in week 9. You only need to attend one of the sessions!</b></li>   
+    <li><a href="https://apps.lse.ac.uk/training-system/userBooking/course/9301744">this link</a> to secure your spot for the <b>first workshop in week 8</b>. You only need to attend one of the sessions!</b></li>
+    <li><a href="https://apps.lse.ac.uk/training-system/userBooking/course/9301749">this link</a> to secure your spot for the <b>second workshop in week 9</b>. You only need to attend one of the sessions!</b></li>   
 </ul>
 
 

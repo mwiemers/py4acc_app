@@ -25,7 +25,7 @@ This should create a new folder named PF_notebooks which contains the different 
 """)
 
 
-with open("materials/Python_for_Accounting.zip", "rb") as f:
+with open("materials/Py4Acc_notebooks.zip", "rb") as f:
     btn = st.download_button(
         label = "Download Python for Accounting materials",
         data = f,

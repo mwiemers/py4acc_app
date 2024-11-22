@@ -31,17 +31,16 @@ st.markdown(
     """
     Python is pre-installed on all teaching PCs in the PC teaching rooms.
     
-    If you wish to install Python on your personal laptop, plese follow the instructions on this website to install Python + VS Code to use Jupyter Notebooks.
+    If you wish to install Python on your personal laptop, plese follow the instructions on this website to install Anaconda to use Python + VS Code + Jupyter Notebooks.
     
-    We recommend to set apart 15 minutes to work through this tutorial (excluding the optional sections on installing libraries and managing environments).
+    We recommend to set apart 15 minutes to work through this tutorial.
 
     Please work through the pages from the sidebar menu for information about:
     * Why Python is such a popular programming language and why you should learn it.
-    * How you can install Python + VS Code on your personal laptop.
-    * The Python workshops format and timetable.
+    * How you can install Anaconda on your personal laptop.
     * How to access the Python workshop materials from this website.
     * How to access and work with jupyter noteboos in VS Code.
-    * How to install libraries and create and manage environments with conda (optional).
+    * Signing up for the workshops.
 
     &nbsp;
     """, unsafe_allow_html=True

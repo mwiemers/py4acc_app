@@ -50,28 +50,6 @@ st.image("img/select_kernel_03.png")
 
 st.markdown(
     """
-6. Scroll down to the first task and hit the Run button next to the code cell. This button is used to execute the code inside a code cell.
-""")
-
-st.image("img/install_jupyter_01.png")
-
-st.markdown(
-    """
-7. VS Code will prompt you to install the jupyter libraries. Select Install
-""")
-
-st.image("img/install_jupyter_02.png", width=200)
-
-st.markdown(
-    """
-    A pop up window will appear in the lower-right corner of the VS Code app. Wait until the installation has been completed.
-""")
-
-st.image("img/install_jupyter_03.png", width=400)
-
-
-st.markdown(
-    """
 
     &nbsp;
     &nbsp;

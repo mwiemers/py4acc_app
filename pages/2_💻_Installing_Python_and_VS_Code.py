@@ -20,27 +20,22 @@ st.set_page_config(
 local_css("css/style.css")
 
 st.markdown("""
-## Installing Miniconda, Python, Jupyter Notebook and VS Code on your MacBook
+## Installing Anaconda
         
-With Miniconda you can install Python, Python libraries and easily manage different Python environments on your personal laptop.
+With Anaconda you can install Python, Python libraries and easily manage different Python environments.
             
-You will use Miniconda in combination with VS Code to write code in Python using Jupyter Notebooks.
-            
+It has many of the libraries you need for data analysis, data visualisation and machine learning.
 
+It also comes with VS Code, which is a Code Editor, that is easy to use for beginners but still has many features that make it 
+a great tool for advanced users.
         
 """)
 
 st.image("img/conda_logo.webp", caption='Anaconda', width=500)
 
-st.markdown("""
-You can change the width of the video to span across the entire webpage. See instructions below.
-""")
-st.image("img/settings.png", width=400)
-
-
 st.markdown(
     """
-### Installing Miniconda
+### Installing Anaconda
 
 Depending on whether your Mac has an M1/M2 or Intel processor, you will have to download a different version of miniconda and VS Code. Check the processor 
 type by clicking on the Apple icon in the top left corner of your screen and selecting About this Mac. 
@@ -53,28 +48,19 @@ st.image("img/mac_processor.png", width=400)
 
 st.markdown(
     """
+Go to the [Anaconda download website](https://www.anaconda.com/download/success)
 
-For Intel Macs, download and install [this file](https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.pkg).
+Select the downloader for your operating system.
 
-For M1-M3 Mac, download and install [this file](https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.pkg).
-""")        
+For MacBooks, select the download with the purple outline if you have an M1/M2... processor. Otherwise, select the download with the orange outline.
+""")
 
+st.image("img/anaconda_download.png", width=800)
 
 st.markdown(
     """
-### Installing VS Code
-    
-Go to [this website](https://code.visualstudio.com/download#).
-
-1. Download the installer.
-    - If you have an Intel Mac, select intel-chip as you can see in the highlighted section below.
-    - If you have an M1-M3 Mac, select Apple silicon in the highlighted section.
-2. Double click on the installer file. Drag the VS Code icon into your application folder.
+Run the installer.
 """)        
-
-st.image("img/vs_code_mac.png", width=300)
-
-
 
 st.markdown(
     """
@@ -94,7 +80,6 @@ st.markdown(
 """)       
 
 st.image("img/vs_code_extensions2.png", width=300)
-
 
 
 

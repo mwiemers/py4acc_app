@@ -29,7 +29,7 @@ with open("materials/Py4Acc_notebooks.zip", "rb") as f:
     btn = st.download_button(
         label = "Download Python for Accounting materials",
         data = f,
-        file_name = "Python_for_Accounting.zip",
+        file_name = "Py4Acc_notebooks.zip",
         mime = "application/zip"
         )
 
